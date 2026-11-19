@@ -1,0 +1,296 @@
+[
+  {
+    "id": 1,
+    "category": "Mutual Funds Basics",
+    "question": "What is a Mutual Fund and how does it work?",
+    "keywords": "mutual fund what is how it works basics pool money diversification",
+    "answer": "A mutual fund pools money from multiple investors to invest in a diversified portfolio of stocks, bonds, or other securities managed by professional fund managers (AMCs). You get units proportional to your investment amount."
+  },
+  {
+    "id": 2,
+    "category": "Mutual Funds Basics",
+    "question": "Is mutual fund investment safe for beginners?",
+    "keywords": "safe risk mutual fund security guarantee beginner youth",
+    "answer": "Mutual funds carry market risks and do not offer guaranteed returns. However, they are regulated strictly by SEBI (Securities and Exchange Board of India) and diversify across dozens of companies, reducing company-specific risk compared to buying single stocks."
+  },
+  {
+    "id": 3,
+    "category": "SIP",
+    "question": "What is SIP (Systematic Investment Plan)?",
+    "keywords": "sip systematic investment plan monthly recurring auto debit",
+    "answer": "A SIP (Systematic Investment Plan) allows you to invest a fixed amount regularly (e.g., monthly) in a mutual fund scheme. It automates financial discipline and helps you build long-term wealth without timing the market."
+  },
+  {
+    "id": 4,
+    "category": "SIP",
+    "question": "What is Rupee Cost Averaging in SIP?",
+    "keywords": "rupee cost averaging market volatility units down market",
+    "answer": "Rupee cost averaging is a key benefit of SIP. When the market drops, your fixed monthly investment buys more units; when the market rises, it buys fewer units. Over time, your average purchase cost per unit comes down automatically."
+  },
+  {
+    "id": 5,
+    "category": "SIP",
+    "question": "Can I stop or pause my SIP anytime without penalty?",
+    "keywords": "stop cancel pause penalty charges discontinue sip",
+    "answer": "Yes! You can pause, stop, or modify your SIP amount at any time without any fine or penalty. Mutual funds provide complete liquidity, subject only to scheme exit load or lock-in rules (like ELSS)."
+  },
+  {
+    "id": 6,
+    "category": "SIP vs Lumpsum",
+    "question": "SIP vs Lumpsum: which investment method is better?",
+    "keywords": "sip vs lumpsum one time one-time comparison timing",
+    "answer": "SIP is ideal for salaried earners and avoids the risk of entering at market peaks. Lumpsum is suitable when you have a surplus (bonus, sale of asset), preferably staggered through an STP (Systematic Transfer Plan) during volatile markets."
+  },
+  {
+    "id": 7,
+    "category": "SIP vs FD",
+    "question": "SIP vs Fixed Deposit (FD): what is the difference?",
+    "keywords": "sip vs fd bank fixed deposit returns safety comparison inflation",
+    "answer": "Bank FDs offer fixed, guaranteed interest (around 6-7%), but returns often struggle to beat inflation and are fully taxed at your slab rate. Equity SIPs fluctuate short-term but historically offer inflation-beating wealth over 5-10+ years."
+  },
+  {
+    "id": 8,
+    "category": "NAV",
+    "question": "What is NAV (Net Asset Value)?",
+    "keywords": "nav net asset value unit price share price",
+    "answer": "NAV is the market price of one unit of a mutual fund scheme. It is calculated at the end of each trading day by dividing the total value of scheme assets minus expenses by the total number of outstanding units."
+  },
+  {
+    "id": 9,
+    "category": "NAV",
+    "question": "Does a lower NAV fund mean it is cheaper or better?",
+    "keywords": "low nav cheap 10 nfo better high nav misconception",
+    "answer": "No, a lower NAV does NOT mean a fund is cheaper or will give higher returns. NAV simply reflects past growth. What matters is the percentage return of the underlying portfolio, not the unit price."
+  },
+  {
+    "id": 10,
+    "category": "ELSS & Tax",
+    "question": "What is ELSS (Equity Linked Savings Scheme)?",
+    "keywords": "elss tax saving 80c 1.5 lakh lock in equity scheme",
+    "answer": "ELSS is a tax-saving equity mutual fund offering tax deductions up to ₹1.5 lakh under Section 80C of the Income Tax Act (under the old tax regime). It has the shortest lock-in period (3 years) among all 80C options."
+  },
+  {
+    "id": 11,
+    "category": "ELSS & Tax",
+    "question": "What is the lock-in period for ELSS SIPs?",
+    "keywords": "elss lock in sip 3 years maturity withdrawal each installment",
+    "answer": "In ELSS SIPs, each monthly installment has its own 3-year lock-in from the date of that specific installment's purchase. For example, an installment made in Jan 2024 matures in Jan 2027."
+  },
+  {
+    "id": 12,
+    "category": "Taxation",
+    "question": "How are Equity Mutual Funds taxed in India?",
+    "keywords": "taxation equity ltcg stcg capital gains tax rates budget",
+    "answer": "For equity mutual funds: holding for less than 1 year attracts Short-Term Capital Gains (STCG) tax at 20%. Holding for more than 1 year attracts Long-Term Capital Gains (LTCG) tax at 12.5% on gains exceeding ₹1.25 lakh per financial year."
+  },
+  {
+    "id": 13,
+    "category": "Taxation",
+    "question": "How are Debt Mutual Funds taxed in India?",
+    "keywords": "debt fund taxation indexation slab rate fixed income",
+    "answer": "For debt mutual funds purchased after April 1, 2023, capital gains (regardless of holding period) are taxed as Short Term Capital Gains added to your total income and taxed at your applicable income tax slab rate."
+  },
+  {
+    "id": 14,
+    "category": "Costs & Fees",
+    "question": "What is Expense Ratio in mutual funds?",
+    "keywords": "expense ratio fees charges fund management ter ter percentage",
+    "answer": "Expense ratio is the annual percentage fee charged by the Asset Management Company (AMC) to cover management, administrative, and compliance costs. The NAV published daily is already net of this fee."
+  },
+  {
+    "id": 15,
+    "category": "Costs & Fees",
+    "question": "What is Exit Load?",
+    "keywords": "exit load fee redemption penalty withdrawal early",
+    "answer": "Exit load is a small fee (typically 0.5% - 1%) charged by the fund house if you redeem your units before a specified timeframe (e.g., within 1 year). Many funds have zero exit load after 365 days."
+  },
+  {
+    "id": 16,
+    "category": "Types of Funds",
+    "question": "What is the difference between Equity, Debt, and Hybrid funds?",
+    "keywords": "equity debt hybrid asset allocation fund types categories",
+    "answer": "Equity funds invest primarily in company shares for higher growth with higher volatility. Debt funds invest in government and corporate bonds for steady income and lower volatility. Hybrid funds blend both for balanced risk."
+  },
+  {
+    "id": 17,
+    "category": "Types of Funds",
+    "question": "What are Large Cap, Mid Cap, and Small Cap funds?",
+    "keywords": "large cap mid cap small cap market capitalisation sebi categorization",
+    "answer": "Large-cap funds invest in top 100 established companies (stable growth). Mid-cap funds invest in 101st-250th companies (higher growth potential, moderate volatility). Small-cap funds invest in 251st onwards (high growth, high short-term volatility)."
+  },
+  {
+    "id": 18,
+    "category": "Types of Funds",
+    "question": "What are Index Funds and ETFs?",
+    "keywords": "index fund etf nifty sensex passive investing low cost",
+    "answer": "Index funds and ETFs passively replicate a stock market index like Nifty 50 or Sensex. They have very low expense ratios and do not attempt to beat the benchmark, giving you market returns with minimal costs."
+  },
+  {
+    "id": 19,
+    "category": "KYC & Account",
+    "question": "What is KYC and why is it mandatory for mutual funds?",
+    "keywords": "kyc know your customer pan aadhaar verification mandatory sebi",
+    "answer": "KYC (Know Your Customer) is a one-time verification mandated by SEBI/PMLA regulations to prevent fraud and money laundering. You need your PAN, Aadhaar-linked mobile (for e-KYC OTP), and an active bank account."
+  },
+  {
+    "id": 20,
+    "category": "KYC & Account",
+    "question": "How long does Mutual Fund KYC verification take?",
+    "keywords": "kyc duration time approval status kra ckyc kra-approved",
+    "answer": "Digital e-KYC using Aadhaar OTP typically takes 24 to 72 hours for validation across central KRA (KYC Registration Agency) databases."
+  },
+  {
+    "id": 21,
+    "category": "KYC & Account",
+    "question": "Can I invest in mutual funds without a PAN card?",
+    "keywords": "pan card mandatory without pan limit exemption micro sip",
+    "answer": "PAN is mandatory for all regular mutual fund investments. The only exception is 'Micro SIP' (investments up to ₹50,000 per financial year per AMC), but having a PAN is strongly recommended for seamless financial access."
+  },
+  {
+    "id": 22,
+    "category": "Goal Planning",
+    "question": "How much of my monthly salary should I invest?",
+    "keywords": "how much to invest percentage salary 50-30-20 rule budget savings",
+    "answer": "A widely recommended framework is the 50-30-20 rule: 50% for needs, 30% for wants, and at least 20% dedicated to investments. As your income grows, try to increase your investment rate to 30-40%."
+  },
+  {
+    "id": 23,
+    "category": "Emergency Fund",
+    "question": "What is an Emergency Fund and where should I park it?",
+    "keywords": "emergency fund rainy day liquidity months expenses savings",
+    "answer": "An emergency fund covers 3 to 6 months of essential living expenses for unexpected events like medical emergencies or job loss. It should be kept in liquid mutual funds, sweep-in FDs, or high-interest savings accounts for instant access."
+  },
+  {
+    "id": 24,
+    "category": "Compounding",
+    "question": "What is the Power of Compounding?",
+    "keywords": "power of compounding returns interest on interest albert einstein 8th wonder",
+    "answer": "Compounding means earning returns on both your initial principal and the accumulated returns from previous periods. Over 10, 15, or 20 years, compounding dramatically accelerates your wealth creation."
+  },
+  {
+    "id": 25,
+    "category": "Inflation",
+    "question": "Why is beating Inflation critical for financial goals?",
+    "keywords": "inflation purchasing power future cost price rise eroding wealth",
+    "answer": "Inflation erodes the purchasing power of your money over time. If inflation is 6% per year, an item costing ₹10 lakh today will cost ₹17.9 lakh in 10 years. Investments must generate returns above inflation to grow real wealth."
+  },
+  {
+    "id": 26,
+    "category": "Risk Profiling",
+    "question": "What does my Risk Profile (Conservative / Moderate / Aggressive) mean?",
+    "keywords": "risk profile conservative moderate aggressive asset allocation tolerance",
+    "answer": "Your risk profile measures your willingness and ability to endure market fluctuations. Conservative investors prioritize capital protection (higher debt); Aggressive investors target higher growth and can withstand short-term market dips."
+  },
+  {
+    "id": 27,
+    "category": "Insurance",
+    "question": "What is Term Insurance and why is it essential?",
+    "keywords": "term insurance pure protection life insurance sum assured cover nominee",
+    "answer": "Term insurance is pure life protection that pays a lump sum benefit to your family in case of your untimely death. It has very affordable premiums for high coverage and should be separated from investments."
+  },
+  {
+    "id": 28,
+    "category": "Insurance",
+    "question": "Should I mix investment and insurance (like ULIPs or Endowment plans)?",
+    "keywords": "ulip endowment lic money back mix insurance investment returns",
+    "answer": "Generally, it is best to keep insurance and investment separate. Buying a pure Term Insurance policy for high coverage and investing the remaining savings into mutual fund SIPs usually yields superior returns and flexibility."
+  },
+  {
+    "id": 29,
+    "category": "Insurance",
+    "question": "Why do I need Health Insurance if I am young and healthy?",
+    "keywords": "health insurance mediclaim hospitalisation medical bills youth cashless",
+    "answer": "Medical inflation in India is over 14% annually. A single hospitalization can wipe out years of hard-earned savings. Buying health insurance when you are young ensures low premiums and covers pre-existing waiting periods early."
+  },
+  {
+    "id": 30,
+    "category": "Redemption & Liquidity",
+    "question": "How quickly do I get my money when I redeem mutual fund units?",
+    "keywords": "redemption time payout bank credit t+1 t+2 settlement",
+    "answer": "Equity fund redemptions typically credit your registered bank account in T+2 business days (moving to T+1). Liquid and overnight funds credit money in T+1 business day, with instant redemption options up to ₹50,000."
+  },
+  {
+    "id": 31,
+    "category": "Direct vs Regular",
+    "question": "What is the difference between Direct and Regular mutual fund plans?",
+    "keywords": "direct vs regular distributor commission mfd arn advisor",
+    "answer": "Direct plans are bought directly from the AMC with lower expense ratios. Regular plans are offered through AMFI-registered distributors (MFDs) who provide end-to-end guidance, portfolio reviews, onboarding, and goal tracking without separate advisory fee."
+  },
+  {
+    "id": 32,
+    "category": "Market Fluctuations",
+    "question": "What should I do when the stock market crashes?",
+    "keywords": "market crash fall correction panic sell down dip what to do",
+    "answer": "Do not panic sell! Market corrections are normal cycles. If you have active SIPs, market falls allow you to acquire more units at discounted prices through rupee cost averaging. Long-term goals should remain untouched."
+  },
+  {
+    "id": 33,
+    "category": "NRI Basics",
+    "question": "Can Non-Resident Indians (NRIs) invest in Indian Mutual Funds?",
+    "keywords": "nri non resident indian nre nro account investment foreign",
+    "answer": "Yes, NRIs can invest in Indian mutual funds on a repatriable (using NRE bank account) or non-repatriable (using NRO bank account) basis. Additional FATCA/CRS declarations are required."
+  },
+  {
+    "id": 34,
+    "category": "Nomination",
+    "question": "Why is adding a nominee mandatory in mutual funds?",
+    "keywords": "nominee nomination legal heir transmission death claims sebi",
+    "answer": "SEBI requires all mutual fund folios to have registered nominees (up to 3 nominees with percentage split). This ensures smooth transmission of your investments to your loved ones without cumbersome legal delays."
+  },
+  {
+    "id": 35,
+    "category": "Goal Planning",
+    "question": "What is Step-Up SIP (Top-up SIP)?",
+    "keywords": "step up top up sip annual increase increment salary hike",
+    "answer": "A Step-Up SIP automatically increases your monthly investment by a fixed percentage (e.g., 10%) every year in line with your salary raises. This simple step can double your final accumulated corpus over 10-15 years."
+  },
+  {
+    "id": 36,
+    "category": "Safety & Regulations",
+    "question": "Can an Asset Management Company (AMC) run away with my money?",
+    "keywords": "amc run away scam security custodian sebi bankrupt trust",
+    "answer": "No. Mutual funds in India operate under a three-tier structure: Sponsor, Trustee Company, and AMC. The investor's securities are held by an independent third-party Custodian registered with SEBI, completely separate from the AMC's own funds."
+  },
+  {
+    "id": 37,
+    "category": "Dividends vs Growth",
+    "question": "What is the difference between Growth and IDCW (Dividend) options?",
+    "keywords": "growth vs idcw dividend payout reinvestment tax efficiency",
+    "answer": "In Growth option, all profits stay invested in the scheme, compounding your wealth over time. In IDCW (Income Distribution cum Capital Withdrawal), the fund pays occasional cash payouts which are taxed at your income slab rate. For wealth creation, Growth is strongly recommended."
+  },
+  {
+    "id": 38,
+    "category": "Debt Funds",
+    "question": "What are Liquid Funds and how are they different from Savings accounts?",
+    "keywords": "liquid fund savings account overnight low risk parking money",
+    "answer": "Liquid funds invest in very short-term debt instruments maturing within 91 days. They carry very low interest rate risk and historically provide slightly higher returns than standard savings bank interest, making them ideal for emergency funds."
+  },
+  {
+    "id": 39,
+    "category": "Retirement Planning",
+    "question": "When should young people in their 20s start planning for retirement?",
+    "keywords": "retirement planning 20s youth start early compounding pension",
+    "answer": "Starting in your 20s is the single biggest financial advantage you have. A monthly SIP of ₹5,000 started at age 22 at 12% annual return can grow to over ₹3.5 crore by age 60, whereas starting at age 35 requires more than triple the monthly investment to achieve the same target."
+  },
+  {
+    "id": 40,
+    "category": "Taxation",
+    "question": "Do I have to pay taxes if I do not withdraw my mutual fund investments?",
+    "keywords": "unrealized gains tax liability annual tax holding period",
+    "answer": "No. Taxes in mutual funds are levied only upon 'redemption' (selling your units) or switching between schemes. Unrealized gains accumulating within the fund over years are completely exempt from annual income tax."
+  },
+  {
+    "id": 41,
+    "category": "Gold Investments",
+    "question": "How do Gold Mutual Funds and Sovereign Gold Bonds (SGB) compare to physical gold?",
+    "keywords": "gold funds sovereign gold bonds sgb physical gold making charges purity",
+    "answer": "Gold mutual funds and SGBs eliminate storage costs, theft risks, and hefty making charges (10-25%) associated with physical jewelry. They offer 99.9% purity and high liquidity directly through your smartphone."
+  },
+  {
+    "id": 42,
+    "category": "Expert Advice",
+    "question": "Why should I consult an AMFI-registered MFD rather than DIY investing?",
+    "keywords": "mfd advisor expert consultation guidance unbiased behavioral coaching",
+    "answer": "While DIY platforms offer DIY execution, an AMFI-registered distributor helps you design goal-aligned asset allocations, prevents panic selling during market crashes, reviews your portfolio periodically, and assists your family with claims and transmission."
+  }
+]
